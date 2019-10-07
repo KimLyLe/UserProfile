@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="textView2">%1$s %2$s</string>
+    <string name="textView">User Profile Kotlin</string>
+    <string name="button">OPEN PICTURE GALLERY</string>
+    <string name="button2">CONFIRM</string>
+</resources>
